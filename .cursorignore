@@ -1,0 +1,10 @@
+Pods/
+DerivedData/
+build/
+.idea/
+.vscode/
+*.xcuserstate
+xcuserdata/
+fastlane/
+Resources/Assets.xcassets/
+vendor/

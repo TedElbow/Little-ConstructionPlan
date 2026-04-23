@@ -1,0 +1,10 @@
+{
+  "aps": {
+    "alert": {
+      "title": "Debug push 1",
+      "body": "Open deeplink #1"
+    },
+    "sound": "default"
+  },
+  "url": "https://github.com/"
+}

@@ -1,0 +1,11 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -showBuildSettings -project P_RosterVault.xcodeproj -scheme T_RosterVault -configuration Debug -derivedDataPath .DerivedData
+
+User defaults from command line:
+    IDEDerivedDataPathOverride = /Users/otodr/Work/src/IOS-RoosterVault/.DerivedData
+    IDEPackageSupportUseBuiltinSCM = YES
+
+Build settings for action build and target T_RosterVault:
+*** error: Could not get build settings for target 'T_RosterVault': unknown error while handling message: Error Domain=NSCocoaErrorDomain Code=4 "The folder “WORKSPACE@v11_hash=7e8ae2287f8ff1599b294753d4cb4115_subobjects=06d5dd2a7fced804f717b11f9d9f6f11-json” doesn’t exist." UserInfo={NSURL=file:///Users/otodr/Work/src/IOS-RoosterVault/.DerivedData/Build/Intermediates.noindex/XCBuildData/PIFCache/workspace/WORKSPACE@v11_hash=7e8ae2287f8ff1599b294753d4cb4115_subobjects=06d5dd2a7fced804f717b11f9d9f6f11-json, NSUserStringVariant=Folder, NSUnderlyingError=0x7f8c71bc3ef0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+Build settings for action build and target notifications:
+*** error: Could not get build settings for target 'notifications': unknown error while handling message: Error Domain=NSCocoaErrorDomain Code=4 "The folder “WORKSPACE@v11_hash=7e8ae2287f8ff1599b294753d4cb4115_subobjects=06d5dd2a7fced804f717b11f9d9f6f11-json” doesn’t exist." UserInfo={NSURL=file:///Users/otodr/Work/src/IOS-RoosterVault/.DerivedData/Build/Intermediates.noindex/XCBuildData/PIFCache/workspace/WORKSPACE@v11_hash=7e8ae2287f8ff1599b294753d4cb4115_subobjects=06d5dd2a7fced804f717b11f9d9f6f11-json, NSUserStringVariant=Folder, NSUnderlyingError=0x7f8c71e49ed0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}

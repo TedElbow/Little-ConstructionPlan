@@ -1,0 +1,10 @@
+{
+  "aps": {
+    "alert": {
+      "title": "Debug push 2",
+      "body": "Open deeplink #2"
+    },
+    "sound": "default"
+  },
+  "url": "https://google.com"
+}

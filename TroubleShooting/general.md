@@ -1,0 +1,3 @@
+# General Troubleshooting
+
+## Resolution log
